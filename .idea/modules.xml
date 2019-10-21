@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithms-and-data-structure/algorithms-and-data-structure.iml" filepath="$PROJECT_DIR$/algorithms-and-data-structure/algorithms-and-data-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_grammer.iml" filepath="$PROJECT_DIR$/basic_grammer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
+    </modules>
+  </component>
+</project>
